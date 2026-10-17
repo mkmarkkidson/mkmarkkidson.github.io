@@ -1,4 +1,3 @@
-[index.html](https://github.com/user-attachments/files/33592721/index.html)
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Pack Shed Intake</title><link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#2f6b2f">
