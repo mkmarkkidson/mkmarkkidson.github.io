@@ -1,5 +1,3 @@
-# mkmarkkidson.github.io
-Baguta Bananas
 [index.html](https://github.com/user-attachments/files/33592721/index.html)
 <!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
